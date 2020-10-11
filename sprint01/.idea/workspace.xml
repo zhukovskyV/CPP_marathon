@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d32bf53f-4209-444a-9635-b6c4bcd94ebe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gu6FkjQ6pvhRQvvMkP6yIwNUne" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/t01/src" />
+      <recent name="$PROJECT_DIR$/t00" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d32bf53f-4209-444a-9635-b6c4bcd94ebe" name="Default Changelist" comment="" />
+      <created>1598952028252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598952028252</updated>
+      <workItem from="1598952029476" duration="2673000" />
+      <workItem from="1598954797738" duration="3734000" />
+      <workItem from="1598959562925" duration="22000" />
+      <workItem from="1598959586136" duration="575000" />
+      <workItem from="1598960198127" duration="3461000" />
+      <workItem from="1598968616444" duration="3693000" />
+      <workItem from="1598981202979" duration="1193000" />
+      <workItem from="1599036267467" duration="15107000" />
+      <workItem from="1599063891488" duration="1574000" />
+      <workItem from="1599067158137" duration="2456000" />
+      <workItem from="1599070926982" duration="2098000" />
+      <workItem from="1599074328114" duration="4742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1599067152155">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.23.2560.1337@0.23.2560.1337" timestamp="1599067152155" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1599067152155">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.23.2560.1337@0.23.2560.1337" timestamp="1599067152155" />
+    <state x="1181" y="400" width="596" height="580" key="find.popup" timestamp="1599072704512">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1181" y="400" width="596" height="580" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1599072704512" />
+    <state x="1129" y="414" width="700" height="530" key="recent.locations.popup" timestamp="1599072664237">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1129" y="414" width="700" height="530" key="recent.locations.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1599072664237" />
+  </component>
+</project>
